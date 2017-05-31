@@ -56,5 +56,10 @@ class Bookmark extends Entity
 		return trim($str, ', ');
 	}
 
+	public static function test()
+    {
+        echo "whoa!";
+    }
+
 	
 }
