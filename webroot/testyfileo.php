@@ -6,5 +6,5 @@
 		echo "dat chicken butt<br>";
 	}
 
-	echo "is it local, i dunnno, let's PARTAY";
+	echo "MWAHAHA, THE MORE THINGS CHANGE, THE MORE THEY STAY THE SAME!";
 ?>
