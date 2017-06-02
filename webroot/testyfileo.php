@@ -5,4 +5,6 @@
 		echo $wut."<br>";
 		echo "dat chicken butt<br>";
 	}
+
+	echo "is it local, i dunnno, let's PARTAY";
 ?>
