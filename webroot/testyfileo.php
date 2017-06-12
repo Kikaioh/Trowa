@@ -8,4 +8,6 @@
 	echo "Going to test pull request";
 
 	echo "Okay fine, you want to be that way?  I'll give you three fitty.";
+
+	echo "Testing stash between branches?";
 ?>
